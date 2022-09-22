@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Route",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6347" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 585918.377312892000191, 4513504.219005498103797 ], [ 585538.374940604553558, 4512790.745163653045893 ], [ 586021.133056418737397, 4512529.655098338611424 ], [ 585946.166602021898143, 4512396.525015530176461 ] ] ] } }
+]
+}
